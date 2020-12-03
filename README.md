@@ -1,2 +1,4 @@
-# lc_everyday
-leetcode daily
+# LeetCode 每日一刷
+坚持就是胜利！
+
+2020/12/3
